@@ -1,0 +1,13 @@
+#*foreground: #00cc00
+#URxvt.termName:	Terminal
+URxvt.foreground:	#ffffff
+URxvt.background:	#010101
+URxvt.font:		xft:monospace:size=11
+#URxvt.font:		xft:inconsolata:size=11
+URxvt.scrollBar: 	false
+URxvt.cursorColor: 	white
+URxvt.geometry:		400x400
+URxvt.cursorBlink:	true
+
+
+Xcursor.theme: adwaita-cursor
