@@ -9,5 +9,7 @@ URxvt.cursorColor: 	white
 URxvt.geometry:		400x400
 URxvt.cursorBlink:	true
 
+URxvt.keysym.Shift-Control-C: eval:selection_to_clipboard
+URxvt_keysym.Shift-Control-V: eval:paste_clipboard
 
 Xcursor.theme: adwaita-cursor
